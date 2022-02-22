@@ -12,3 +12,6 @@ https://github.com/mehdi123
 
 OliexDev (creator of open source workout and weight scale app)
 https://github.com/oliexdev
+
+Piotr Dabkowski (created JS to Python Translator & JS interpreter written in 100% pure Python)
+https://github.com/PiotrDabkowski
