@@ -1,5 +1,4 @@
-# interesting-github-profiles
-List of interesting github profiles
+# List of interesting github profiles
 
 Aly Sivji
 https://github.com/alysivji
