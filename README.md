@@ -15,3 +15,6 @@ https://github.com/oliexdev
 
 Piotr Dabkowski (created JS to Python Translator & JS interpreter written in 100% pure Python)
 https://github.com/PiotrDabkowski
+
+Patrick Loeber Medical engineer making Python tutorials
+https://github.com/python-engineer
