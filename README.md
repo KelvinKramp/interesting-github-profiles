@@ -9,7 +9,6 @@ https://github.com/aaronsw
 Mehdi Ahmadi
 https://github.com/mehdi123
 
-
 OliexDev (creator of open source workout and weight scale app)
 https://github.com/oliexdev
 
@@ -18,3 +17,6 @@ https://github.com/PiotrDabkowski
 
 Patrick Loeber Medical engineer making Python tutorials
 https://github.com/python-engineer
+
+Kavgan data science blogs list
+https://github.com/kavgan/data-science-blogs
