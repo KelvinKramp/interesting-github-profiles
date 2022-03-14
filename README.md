@@ -20,3 +20,6 @@ https://github.com/python-engineer
 
 Kavgan data science blogs list
 https://github.com/kavgan/data-science-blogs
+
+Kurtis Pykes, Python really well explained
+https://github.com/kurtispykes/Python
