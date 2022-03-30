@@ -23,3 +23,6 @@ https://github.com/kavgan/data-science-blogs
 
 Kurtis Pykes, Python really well explained
 https://github.com/kurtispykes/Python
+
+Emanuel Mazza from Valencia, How to create your own end-to-end encrypted mail server
+https://github.com/d3cod3/EndtoEndEncryptedMailServer
