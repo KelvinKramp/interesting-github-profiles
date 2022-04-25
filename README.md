@@ -26,3 +26,9 @@ https://github.com/kurtispykes/Python
 
 Emanuel Mazza from Valencia, How to create your own end-to-end encrypted mail server
 https://github.com/d3cod3/EndtoEndEncryptedMailServer
+
+Ariane Sasso - Researcher in Medical Informatics and Digital Health
+https://github.com/arianesasso
+
+Brinnae Bent - Initiator of Biomarker discovey pipeline (https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP)
+https://github.com/brinnaebent
