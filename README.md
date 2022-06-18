@@ -32,3 +32,6 @@ https://github.com/arianesasso
 
 Brinnae Bent - Initiator of Biomarker discovey pipeline (https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP)
 https://github.com/brinnaebent
+
+Ssali Jonathan - Software engineer from Uganda with tremendous amount of tutorials
+https://github.com/jod35
