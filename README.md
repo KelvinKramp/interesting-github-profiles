@@ -35,3 +35,6 @@ https://github.com/brinnaebent
 
 Ssali Jonathan - Software engineer from Uganda with tremendous amount of tutorials
 https://github.com/jod35
+
+小孙同学 sun0225SUN - Crazy good github profile
+https://github.com/sun0225SUN
